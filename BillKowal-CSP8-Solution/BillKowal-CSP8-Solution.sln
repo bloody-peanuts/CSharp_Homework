@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillKowal-CSP8-Project", "BillKowal-CSP8-Project\BillKowal-CSP8-Project.csproj", "{72CF16FE-9AC8-47CE-A0DA-3FE148A1701C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72CF16FE-9AC8-47CE-A0DA-3FE148A1701C}.Debug|x86.ActiveCfg = Debug|x86
+		{72CF16FE-9AC8-47CE-A0DA-3FE148A1701C}.Debug|x86.Build.0 = Debug|x86
+		{72CF16FE-9AC8-47CE-A0DA-3FE148A1701C}.Release|x86.ActiveCfg = Release|x86
+		{72CF16FE-9AC8-47CE-A0DA-3FE148A1701C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
